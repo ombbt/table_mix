@@ -1,0 +1,1 @@
+alim: composant max1719  : crée du -5v a partir du +5v
